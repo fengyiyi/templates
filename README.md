@@ -1,3 +1,3 @@
 # Sitecake Templates
 
-Templates repository contans a collection of Sitecake v2.0 templates.
+Templates repository contains a collection of Sitecake v2.0 templates.
